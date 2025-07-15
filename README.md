@@ -1,6 +1,6 @@
 
 
-<img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> <img width="841" alt="aaan" src="https://github.com/user-attachments/assets/8327c8a7-910d-4863-bdf1-94a4e1610f7c" /> <img width="841" alt="aaan" 
+<img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> 
 
 
 Visionect Joan 6 E-Ink Display for Home Assistant
