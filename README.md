@@ -1,10 +1,10 @@
+
+
+<img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> <img width="841" alt="aaan" src="https://github.com/user-attachments/assets/8327c8a7-910d-4863-bdf1-94a4e1610f7c" /> <img width="841" alt="aaan" 
+
+
 Visionect Joan 6 E-Ink Display for Home Assistant
 The Joan 6 E-Ink display from Visionect, originally designed as a meeting room booking system, is an excellent choice for managing entities in Home Assistant, thanks to its energy efficiency, touch screen, and flexibility.
-
-<img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> <img width="841" alt="aaan" src="https://github.com/user-attachments/assets/8327c8a7-910d-4863-bdf1-94a4e1610f7c" /> <img width="841" alt="aaan" src="https://github.com/user-attachments/assets/a729ed1b-8fb3-4390-ba46-7caa0d1d8223" />
-
-
-
 
 🧰 Prerequisites
 A server with Proxmox VE installed and internet access.
