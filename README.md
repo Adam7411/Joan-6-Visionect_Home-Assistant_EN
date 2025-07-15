@@ -6,9 +6,6 @@
 
 The Joan 6 E-Ink display by Visionect, originally created for conference room management, also works excellently as a Home Assistant control panel thanks to its low power usage, touchscreen, and flexibility.
 
-![Joan](https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039)
-![Preview1](https://github.com/user-attachments/assets/8327c8a7-910d-4863-bdf1-94a4e1610f7c)
-![Preview2](https://github.com/user-attachments/assets/a729ed1b-8fb3-4390-ba46-7caa0d1d8223)
 
 ---
 
