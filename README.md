@@ -104,7 +104,7 @@ docker ps
    * Windows: [VisionectConfigurator.exe](https://files.visionect.com/VisionectConfigurator/VisionectConfigurator.exe)
    * Linux: [VisionectConfigurator\_linux.deb](https://files.visionect.com/VisionectConfigurator/VisionectConfigurator_linux.deb)
    * macOS: [Intel](https://files.visionect.com/VisionectConfigurator/VisionectConfigurator_intel.dmg) | [Apple Silicon](https://files.visionect.com/VisionectConfigurator/VisionectConfigurator_m1.dmg)
-   * Older version: [1.3.10](https://files.visionect.com/VisionectConfigurator2.exe)
+   * Older version: [1.3.10](https://files.visionect.com/VisionectConfigurator2.exe) [VC_1.exe](https://files.visionect.com/VC_1.exe)
 
 2. Connect the tablet to USB.
 
@@ -114,7 +114,7 @@ docker ps
 
    * Server IP: e.g., `192.168.1.100`
    * Port: `11113`
-
+    ![image](https://github.com/user-attachments/assets/de30fd1e-9bd3-4f98-ab00-9a3b534f7332)
 5. Click connect. The tablet should appear in the Visionect server panel.
 
 ---
@@ -124,7 +124,7 @@ docker ps
 > You can also use [Puppeteer version](https://github.com/Adam7411/Joan-6-Puppeteer/blob/main/README.md) if you don't want to use AppDaemon.
 
 1. Install **AppDaemon** in Home Assistant.
-2. Go to: `\HA_IP\config\appdaemon\dashboards\`
+2. Go to: `\HA_IP\config\appdaemon\dashboards\` \addon_configs\a7c7b154_appdaemon\dashboards\ )
 3. Create a file, e.g., `joan1.dash`
 4. Example files:
 
@@ -145,6 +145,4 @@ For more integration (e.g., battery level, online status), use this HACS integra
 
 This lets you automate low battery alerts and show status info in Home Assistant.
 
----
 
-Enjoy your energy-efficient, stylish Home Assistant panel powered by Joan 6!
