@@ -21,7 +21,7 @@ The Joan 6 E-Ink display by Visionect, originally created for conference room ma
 * Root (admin) privileges.
 * A computer with Windows, Linux, or macOS.
 * A **Visionect Joan 6** device.
-
+* Add-on HASC [Visionect Joan](https://github.com/Adam7411/visionect_joan)
 > **Note:** A Visionect Software Suite Docker container must run continuously. If you're already using Home Assistant on Proxmox, this setup adds minimal overhead.
 
 ---
