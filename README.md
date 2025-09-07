@@ -17,7 +17,7 @@ The Joan 6 E-Ink display by Visionect, originally created for conference room ma
 
 ## 🧰 Prerequisites
 
-* A server with **Proxmox VE** and internet access.
+* A server with **Proxmox VE** and internet access.  If you want to directly install Visionect Software Suite in Home Assistant, click-> [visiononect-v3-allinone] (https://github.com/adam7411/visionect-v3-allinone)
 * Root (admin) privileges.
 * A computer with Windows, Linux, or macOS.
 * A **Visionect Joan 6** device.
