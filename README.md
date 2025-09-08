@@ -138,7 +138,7 @@ docker ps
 Dashboard can also be set from home assistant by add -on👉 [Visionect Joan](https://github.com/Adam7411/visionect_joan) 👈
 ---
 
-Integration with Home Assistant (Tablet status reading and URL sending)
+Visionect Joan for Home Assistant (Reading the State of the Tablet and sending photos of URL and your own text)
 Integration for reading information about the status of the Joan tablet in Home Assistant (e.g. battery level, connection status, etc.), as well as for sending your own URL ( e.g. https://www.wikipedia.org/ ) or local images ( example: http://HAaddress:8123/local/test_image.png
 P.S. The file test_image.png should be placed in the folder: \\192.168.xxx.xxx\config\www\
 
