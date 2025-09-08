@@ -134,8 +134,8 @@ docker ps
 6. Restart AppDaemon.
 7. Test: `http://<HA_IP>:5050/joan1`
 8. Copy URL, paste into **Default URL** in Visionect dashboard settings.
-9. Adjust **Refresh Rate** if necessary (e.g., 2 seconds initially).
-
+9. Adjust **Refresh Rate** if necessary (e.g., 2 seconds initially). 
+Dashboard can also be set from home assistant by add -on👉 [Visionect Joan](https://github.com/Adam7411/visionect_joan) 👈
 ---
 
 Integration with Home Assistant (Tablet status reading and URL sending)
