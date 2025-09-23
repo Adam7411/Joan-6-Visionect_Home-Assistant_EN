@@ -139,7 +139,7 @@ Visionect Configurator 1
    * [joan2.dash](https://github.com/Adam7411/Joan-6-Visionect_Home-Assistant/blob/main/joan2.dash)
 5. Edit and insert your own Home Assistant entities.
 6. Restart AppDaemon.
-7. Test: `http://<HA_IP>:5050/joan1`
+7. Test: `http://<HA_IP>:5050/joan1` `http://<HA_IP>:5050/joan2`
 8. Copy URL, paste into **Default URL** in Visionect dashboard settings.
 9. Adjust **Refresh Rate** if necessary (e.g., 2 seconds initially). 
 Dashboard can also be set from home assistant by add -on👉 [Visionect Joan](https://github.com/Adam7411/visionect_joan) 👈
