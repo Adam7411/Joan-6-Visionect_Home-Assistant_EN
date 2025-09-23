@@ -114,8 +114,13 @@ docker ps
 
    * Server IP: e.g., `192.168.1.100`
    * Port: `11113`
-    ![image](https://github.com/user-attachments/assets/de30fd1e-9bd3-4f98-ab00-9a3b534f7332)
-<img width="735" height="420" alt="Bez tytułu" src="https://github.com/user-attachments/assets/3d2932e3-ad9a-4137-ae12-772db858e198" />
+     
+ Visionect Configurator 2.0
+![image](https://github.com/user-attachments/assets/de30fd1e-9bd3-4f98-ab00-9a3b534f7332)
+
+Visionect Configurator 1
+<img width="754" height="501" alt="Bez tytułu" src="https://github.com/user-attachments/assets/79a42b61-659c-469f-b593-0122ff8e8e82" />
+
 
 5. Click connect. The tablet should appear in the Visionect server panel.
 
