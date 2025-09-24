@@ -1,7 +1,7 @@
 If you want to directly install Visionect Software Suite in Home Assistant, click-> [visiononect-v3-allinone] (https://github.com/adam7411/visionect-v3-allinone)
 
 
-# Visionect Software Suite - Instalacja w Proxmox
+# Visionect Software Suite - Installation in Proxmox
 
 <img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> 
 
