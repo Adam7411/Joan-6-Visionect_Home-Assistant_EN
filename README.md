@@ -6,6 +6,7 @@ If you want to directly install Visionect Software Suite in Home Assistant, clic
 <img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> 
 
 # Visionect Joan 6 + Home Assistant Integration (English Version)
+--> [Polish version](https://github.com/Adam7411/Joan-6-Visionect_Home-Assistant)
 
 The Joan 6 E-Ink display by Visionect, originally created for conference room management, also works excellently as a Home Assistant control panel thanks to its low power usage, touchscreen, and flexibility.
 
