@@ -2,7 +2,9 @@ If you want to directly install Visionect Software Suite in Home Assistant, clic
 
 
 # Visionect Software Suite - Installation in Proxmox
+
 --> [Polish version](https://github.com/Adam7411/Joan-6-Visionect_Home-Assistant)
+
 <img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> 
 
 # Visionect Joan 6 + Home Assistant Integration (English Version)
