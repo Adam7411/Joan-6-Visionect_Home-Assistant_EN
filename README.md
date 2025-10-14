@@ -161,25 +161,6 @@ P.S. The file test_image.png should be placed in the folder: \\192.168.xxx.xxx\c
 This allows for creating automations, such as sending low battery notifications, displaying an entity with battery level on the tablet, or sending images for different notifications, and then returning to the AppDaemon dashboard, etc.
 This integration provides the following entities and services:
 
-Sensors:
-
-Battery Level
-Total & Used Storage
-Uptime
-Charging Status (Binary Sensor)
-Screen Refresh Interval (Number)
-Battery Voltage
-Device Status (Online/Offline)
-Wi-Fi Signal Strength
-Temperature
-Configured URL
-Last Seen Timestamp
-Services:
-
-visionect_joan.send_text: Send text messages, now with image support and layout options. **Supports Jinja2 templates for dynamic content.**
-visionect_joan.set_url: Display a custom URL (e.g., a website like https://www.wikipedia.org/ or a local image like http://<your_ha_ip>:8123/local/test_image.png).
-visionect_joan.clear_display: Wipes the screen.
-visionect_joan.force_refresh: Immediately reloads the content from the configured URL.
 
 <img width="510" height="739" alt="3" src="https://github.com/user-attachments/assets/8f8c673d-8447-42ec-9d13-0bd4e9683437" /> <img width="948" height="791" alt="2" src="https://github.com/user-attachments/assets/4a3c054a-e239-49c1-ab9d-037584cd7989" /> <img width="607" height="893" alt="1" src="https://github.com/user-attachments/assets/1321cfe8-905d-44ef-b1b9-29d999559a04" /> <img width="770" height="641" alt="4" src="https://github.com/user-attachments/assets/31e9bca1-d7c6-4245-b32f-4c909251bf2c" />
 
