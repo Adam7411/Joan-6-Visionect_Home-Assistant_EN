@@ -1,6 +1,7 @@
 If you want to directly install Visionect Software Suite in Home Assistant, click-> [Visionect-V3-Allinone](https://github.com/Adam7411/visionect-v3-allinone)
 
-
+- [Joan 6: AppDaemon Dashboard Generator add-on](https://github.com/Adam7411/joan_generator/blob/main/README_EN.md)
+***
 
 # Visionect Software Suite - Installation in Proxmox
 
