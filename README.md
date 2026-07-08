@@ -1,6 +1,6 @@
 If you want to directly install Visionect Software Suite in Home Assistant, click-> [Visionect-V3-Allinone](https://github.com/Adam7411/visionect-v3-allinone)
 
-- [Joan 6: AppDaemon Dashboard Generator add-on](https://github.com/Adam7411/joan_generator/blob/main/README_EN.md)
+- [Joan 6/13PRO: AppDaemon Dashboard Generator add-on](https://github.com/Adam7411/joan_generator/blob/main/README_EN.md)
 ***
 
 # Visionect Software Suite - Installation in Proxmox
@@ -9,10 +9,10 @@ If you want to directly install Visionect Software Suite in Home Assistant, clic
 
 <img width="841" alt="logojoan" src="https://github.com/user-attachments/assets/36499aed-4e26-404e-b75d-13082303f039" /> 
 
-# Visionect Joan 6 + Home Assistant Integration (English Version)
+# Visionect Joan 6 /13PRO + Home Assistant Integration (English Version)
 
 
-The Joan 6 E-Ink display by Visionect, originally created for conference room management, also works excellently as a Home Assistant control panel thanks to its low power usage, touchscreen, and flexibility.
+The Joan 6/13PRO E-Ink display by Visionect, originally created for conference room management, also works excellently as a Home Assistant control panel thanks to its low power usage, touchscreen, and flexibility.
 
 
 ---
