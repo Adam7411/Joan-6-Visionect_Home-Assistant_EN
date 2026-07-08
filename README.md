@@ -20,6 +20,8 @@ The Joan 6/13PRO E-Ink display by Visionect, originally created for conference r
 ![Example1](https://github.com/user-attachments/assets/054cda40-bb31-4192-9b8d-c88860b5e144)
 ![Example2](https://github.com/user-attachments/assets/440e108e-4ffa-497a-893c-9be2b7d67f02)
 <img width="585" height="829" alt="Screenshot" src="https://github.com/user-attachments/assets/e30973c6-5f0a-455a-9c00-e297b9d41751" />
+<img width="1484" height="1278" alt="Bez tytułu" src="https://github.com/user-attachments/assets/369773a6-189d-48ac-aa59-bd634f80d6ba" />
+
 
 
 ---
