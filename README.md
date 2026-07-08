@@ -19,7 +19,8 @@ The Joan 6 E-Ink display by Visionect, originally created for conference room ma
 
 ![Example1](https://github.com/user-attachments/assets/054cda40-bb31-4192-9b8d-c88860b5e144)
 ![Example2](https://github.com/user-attachments/assets/440e108e-4ffa-497a-893c-9be2b7d67f02)
-![Example3](https://github.com/user-attachments/assets/db4b8a13-7e46-43b6-a745-67962b7457ab)
+<img width="585" height="829" alt="Screenshot" src="https://github.com/user-attachments/assets/e30973c6-5f0a-455a-9c00-e297b9d41751" />
+
 
 ---
 
