@@ -137,7 +137,7 @@ Visionect Configurator 1
 
 ## ✏️ Step 6: Create a Dashboard for Home Assistant
 
-> You can also use [Joan 6 AppDaemon dashboard Generator](https://github.com/Adam7411/joan_generator/blob/main/README_EN.md)👈️
+> You can also use [Joan 6/13PRO AppDaemon dashboard Generator](https://github.com/Adam7411/joan_generator/blob/main/README_EN.md)👈️
 
 1. Install **AppDaemon** in Home Assistant.
 2. Go to: `\HA_IP\config\appdaemon\dashboards\` \addon_configs\a7c7b154_appdaemon\dashboards\ )
